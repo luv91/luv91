@@ -2,6 +2,10 @@
 ## 🚀 About Me
 I am a former Senior Data Scientist, Research Engineer, and Technical Blogger Seeking Co-op/Internship Opportunities in Machine Learning, Starting January 2024
 
+## 😎😎 My recent Arxiv article (from the computer vision section)
+<a target="_blank" href="https://arxiv.org/pdf/2308.05242.pdf"><img src="https://github.com/luv91/VQGAN_Project/blob/main/figure_7_codebook_8192_ld_256_without_pos_withpos_Images%3D65.png" alt="My recent Arxiv article"></a>
+
+
 ## 😎😎 Some of my recent blogs
 <a target="_blank" href="https://github-readme-medium-recent-article.vercel.app/medium/@luvverma2011/0"><img src="https://github-readme-medium-recent-article.vercel.app/medium/@luvverma2011/0" alt="Recent Article 0"> 
 
