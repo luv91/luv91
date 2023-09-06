@@ -5,6 +5,11 @@ I am a former Senior Data Scientist, Research Engineer, and Technical Blogger Se
 ### 😎😎 My recent Arxiv article (from the computer vision section)
 <a target="_blank" href="https://arxiv.org/pdf/2308.05242.pdf"><img src="https://github.com/luv91/VQGAN_Project/blob/main/figure_7_codebook_8192_ld_256_without_pos_withpos_Images%3D65.png" alt="My recent Arxiv article on VQGANs"></a>
 
+
+### 😎😎 In our ArXiv research article (from the Computer Vision section) on ablation analysis of Vector Quantized Generative Adversarial Networks (VQGANs) for image-to-image synthesis, we delved into understanding the discrete latent space, specifically studying the effects of varying its size on image reconstruction. The Figure below is shown as an example and it visually compares original images with their corresponding reconstructions under different configurations: one without positional encoding and the other introducing 2D positional encodings. Please go through the article to delve deeper
+<a target="_blank" href="https://arxiv.org/pdf/2308.05242.pdf"><img src="https://github.com/luv91/VQGAN_Project/blob/main/figure_7_codebook_8192_ld_256_without_pos_withpos_Images%3D65.png" alt="My recent Arxiv article on VQGANs"></a>
+
+
 ### 😎😎 In the recent ArXiv article (from the Computation and Language section) on optimizing transformer-based machine translation models for single GPU training, we conducted an extensive hyperparameter ablation study. Table 1 (shown below) from the paper provides a detailed analysis of the impact of various hyperparameters on model performance and the associated parameter count for each configuration over 100 epochs. Please go through the article to delve deeper.
 <a target="_blank" href="https://arxiv.org/pdf/2308.06017.pdf"><img src="https://github.com/luv91/MachineLanguageTranslation/blob/main/Table_1.png" alt="My recent Arxiv article on Ablation studies over Machine Translation Model"></a>
 
