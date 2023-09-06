@@ -2,7 +2,7 @@
 ## 🚀 About Me
 I am a former Senior Data Scientist, Research Engineer, and Technical Blogger Seeking Co-op/Internship Opportunities in Machine Learning, Starting January 2024.
 
-### 😎😎 In our ArXiv research article (from the Computer Vision section) on ablation analysis of Vector Quantized Generative Adversarial Networks (VQGANs) for image-to-image synthesis, we delved into understanding the discrete latent space, specifically studying the effects of varying its size on image reconstruction. The Figure below is shown as an example and it visually compares original images with their corresponding reconstructions under different configurations: one without positional encoding and the other introducing 2D positional encodings. Please go through the article to delve deeper
+### 😎😎 In our ArXiv research article (from the Computer Vision section) on ablation analysis of Vector Quantized Generative Adversarial Networks (VQGANs) for image-to-image synthesis, we delved into understanding the discrete latent space, specifically studying the effects of varying its size on image reconstruction. //The Figure below is shown as an example and it visually compares original images with their corresponding reconstructions under different configurations: one without positional encoding and the other introducing 2D positional encodings. Please go through the article to delve deeper
 <a target="_blank" href="https://arxiv.org/pdf/2308.05242.pdf"><img src="https://github.com/luv91/VQGAN_Project/blob/main/figure_7_codebook_8192_ld_256_without_pos_withpos_Images%3D65.png" alt="My recent Arxiv article on VQGANs"></a>
 
 
