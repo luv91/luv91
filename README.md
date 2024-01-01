@@ -3,6 +3,7 @@
 ## 📬 Get in touch
 
 [![LinkedIn](https://img.shields.io/badge/-Luv%20Verma-blue?logo=linkedin)](https://www.linkedin.com/in/luvverma/)
+[![Gmail](https://img.shields.io/badge/-verma.lu-white?logo=northeastern)](mailto:verma.lu@northeastern.edu)
 [![Gmail](https://img.shields.io/badge/-luvverma2011-white?logo=gmail)](mailto:luvverma2011@gmail.com)
 
 
