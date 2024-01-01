@@ -10,6 +10,29 @@
 ## 🚀 About Me
 I am a former Senior Data Scientist, Research Engineer, and Technical Blogger Seeking Co-op/Internship Opportunities in Machine Learning, Starting January 2024.
 
+## Languages and Technologies
+
+### Programming Languages
+
+![Python](https://img.shields.io/badge/-Python-black?style=for-the-badge&logo=python)
+![SQL](https://img.shields.io/badge/-SQL-black?style=for-the-badge&logo=mySQL)
+![PyTorch](https://img.shields.io/badge/-PyTorch-orange?style=for-the-badge&logo=PyTorch)
+![TensorFlow](https://img.shields.io/badge/-TensorFlow-orange?style=for-the-badge&logo=TensorFlow)
+![C++](https://img.shields.io/badge/-C++-black?style=for-the-badge&logo=C++)
+![Java](https://img.shields.io/badge/-Java-black?style=for-the-badge&logo=openjdk)
+
+
+### Technologies
+
+![Linux](https://img.shields.io/badge/-Linux-black?style=for-the-badge&logo=linux)
+![Git](https://img.shields.io/badge/-Git-black?style=for-the-badge&logo=git)
+![Docker](https://img.shields.io/badge/-Docker-black?style=for-the-badge&logo=docker)
+![Hadoop](https://img.shields.io/badge/-Hadoop-black?style=for-the-badge&logo=apachehadoop)
+![Spark](https://img.shields.io/badge/-Spark-black?style=for-the-badge&logo=apachespark)
+![Azure](https://img.shields.io/badge/-Azure-black?style=for-the-badge&logo=microsoftazure)
+![Databricks](https://img.shields.io/badge/-Databricks-black?style=for-the-badge&logo=databricks)
+
+
 ## 🚀 Work Highlights
 
 ### 😎😎 In our ArXiv research article (from the Computer Vision section) on ablation analysis of Vector Quantized Generative Adversarial Networks (VQGANs) for image-to-image synthesis, we delved into understanding the discrete latent space, specifically studying the effects of varying its size on image reconstruction.
