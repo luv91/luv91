@@ -16,8 +16,8 @@ I am a former Senior Data Scientist, Research Engineer, and Technical Blogger Se
 
 ![Python](https://img.shields.io/badge/-Python-black?style=for-the-badge&logo=python)
 ![SQL](https://img.shields.io/badge/-SQL-black?style=for-the-badge&logo=mySQL)
-![PyTorch](https://img.shields.io/badge/-PyTorch-orange?style=for-the-badge&logo=PyTorch)
-![TensorFlow](https://img.shields.io/badge/-TensorFlow-orange?style=for-the-badge&logo=TensorFlow)
+![PyTorch](https://img.shields.io/badge/-PyTorch-black?style=for-the-badge&logo=PyTorch)
+![TensorFlow](https://img.shields.io/badge/-TensorFlow-black?style=for-the-badge&logo=TensorFlow)
 ![C++](https://img.shields.io/badge/-C++-black?style=for-the-badge&logo=C++)
 ![Java](https://img.shields.io/badge/-Java-black?style=for-the-badge&logo=openjdk)
 
