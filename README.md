@@ -3,7 +3,7 @@
 ## 📬 Get in touch
 
 [![LinkedIn](https://img.shields.io/badge/-Luv%20Verma-blue?logo=linkedin)](https://www.linkedin.com/in/luvverma/)
-[![Gmail](https://img.shields.io/badge/-kevin.k.knights-white?logo=gmail)](mailto:kevin.k.knights@gmail.com)
+[![Gmail](https://img.shields.io/badge/-luvverma2011-white?logo=gmail)](mailto:luvverma2011@gmail.com)
 
 
 ## 🚀 About Me
