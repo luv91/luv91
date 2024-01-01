@@ -1,3 +1,10 @@
+# 🤖 Luv Verma
+
+## 📬 Get in touch
+
+[![LinkedIn](https://img.shields.io/badge/-Luv%20Verma-blue?logo=linkedin)](https://www.linkedin.com/in/luvverma/)
+[![Gmail](https://img.shields.io/badge/-kevin.k.knights-white?logo=gmail)](mailto:kevin.k.knights@gmail.com)
+
 
 ## 🚀 About Me
 I am a former Senior Data Scientist, Research Engineer, and Technical Blogger Seeking Co-op/Internship Opportunities in Machine Learning, Starting January 2024.
