@@ -32,6 +32,28 @@ I am a former Senior Data Scientist, Research Engineer, and Technical Blogger wi
 ![Azure](https://img.shields.io/badge/-Azure-black?style=for-the-badge&logo=microsoftazure)
 ![Databricks](https://img.shields.io/badge/-Databricks-black?style=for-the-badge&logo=databricks)
 
+## 🚀 Tableau Netflix Visualization Project
+
+### 📊 Netflix Movies and TV Shows Dashboard
+
+I built a **Tableau Dashboard** to analyze Netflix movies and TV shows, focusing on key metrics like production year, content distribution, and top categories across different countries. The dataset includes thousands of titles, allowing users to explore trends and visualize Netflix's global content.
+
+[![Tableau Netflix Dashboard](https://github.com/luv91/TableauNetflixProject/blob/main/screenshot.png)](https://github.com/luv91/TableauNetflixProject)
+
+You can find the full Tableau project and dataset in the repository [here](https://github.com/luv91/TableauNetflixProject).
+
+### Key Metrics:
+- **Content Release Distribution by Year**: Visualize the number of movies and TV shows released each year.
+- **Top 10 Categories for Movies and TV Shows**: Insights into the most common genres.
+- **Geographical Analysis**: Explore Netflix content production across different countries.
+
+### Technologies Used:
+- **Tableau Public**: For data visualization.
+- **CSV Dataset**: Netflix movies and TV shows dataset.
+- **GitHub**: To host and track the project.
+
+Click the link to explore the full project [here](https://github.com/luv91/TableauNetflixProject).
+
 
 ## 🚀 Work Highlights
 
