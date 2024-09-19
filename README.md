@@ -40,14 +40,6 @@ I built a **Tableau Dashboard** to analyze Netflix movies and TV shows, focusing
 
 [Click here to view the Tableau Dashboard](https://public.tableau.com/app/profile/luv.verma/viz/TableauProjectNetflix_17267119941750/NetflixVisualizationDashboard?publish=yes)
 
-You can also explore the full project and data [on GitHub](https://github.com/luv91/TableauNetflixProject).
-
-### Key Metrics:
-- **Content Release Distribution by Year**
-- **Top 10 Categories for Movies and TV Shows**
-- **Geographical Analysis**
-
-
 ## 🚀 Work Highlights
 
 ### 😎😎 In our ArXiv research article (from the Computer Vision section) on ablation analysis of Vector Quantized Generative Adversarial Networks (VQGANs) for image-to-image synthesis, we delved into understanding the discrete latent space, specifically studying the effects of varying its size on image reconstruction.
