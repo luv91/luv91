@@ -42,30 +42,32 @@ I built a **Tableau Dashboard** to analyze Netflix movies and TV shows, focusing
 
 ## 🚀 Work Highlights
 
-## 🎥 Comparison of Reconstructions: sRGB vs TrueLog vs GP-Log
+## 🎥 Novel NeRF Reconstruction Methods Comparison
 
-Below are videos showcasing different reconstructions of the scenes, comparing **current literature (sRGB)**, **improved GP-Log**, and **my research (TrueLog)**.
+This research demonstrates improved NeRF reconstruction quality using True-Log color space compared to traditional sRGB approach. The videos below showcase the visual differences between current literature methods and our proposed approach.
 
-### Scene 1: Median Reconstructions
-
-#### sRGB Reconstruction (Current Literature)
-<video width="320" height="240" controls>
-  <source src="videos/Scene1Vidoes-sRGB-GP-Log-True-Log/Scene-1-sRGB-median.mp4" type="video/mp4">
-  Your browser does not support the video tag.
-</video>
-
-#### TrueLog Reconstruction (My Research)
-<video width="320" height="240" controls>
-  <source src="videos/Scene1Vidoes-sRGB-GP-Log-True-Log/Scene-1-True-Log-median.mp4" type="video/mp4">
-  Your browser does not support the video tag.
-</video>
-
-#### GP-Log Reconstruction
-<video width="320" height="240" controls>
-  <source src="videos/Scene1Vidoes-sRGB-GP-Log-True-Log/Scene-1-GP-Log-median.mp4" type="video/mp4">
-  Your browser does not support the video tag.
-</video>
-
+<table>
+<tr>
+    <td width="50%"><strong>sRGB (Current Literature)</strong></td>
+    <td width="50%"><strong>True-Log (Our Research)</strong></td>
+</tr>
+<tr>
+    <td>
+        <video width="100%" controls>
+            <source src="https://github.com/luv91/NeRFs-TrueLog_vs_sRGB/raw/main/videos/Scene1Vidoes-sRGB-GP-Log-True-Log/Scene-1-sRGB-median.mp4" type="video/mp4">
+        </video>
+    </td>
+    <td>
+        <video width="100%" controls>
+            <source src="https://github.com/luv91/NeRFs-TrueLog_vs_sRGB/raw/main/videos/Scene1Vidoes-sRGB-GP-Log-True-Log/Scene-1-True-Log-median.mp4" type="video/mp4">
+        </video>
+    </td>
+</tr>
+<tr>
+    <td><em>Standard sRGB reconstruction showing typical artifacts and limited dynamic range</em></td>
+    <td><em>Our True-Log method demonstrating improved detail preservation and enhanced dynamic range</em></td>
+</tr>
+</table>
 
 ### 😎😎 In our ArXiv research article (from the Computer Vision section) on ablation analysis of Vector Quantized Generative Adversarial Networks (VQGANs) for image-to-image synthesis, we delved into understanding the discrete latent space, specifically studying the effects of varying its size on image reconstruction.
 #### The figure below is shown as an example and it visually compares original images with their corresponding reconstructions under different configurations: one without positional encoding and the other introducing 2D positional encodings. Please go through the article to delve deeper
