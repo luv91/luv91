@@ -44,7 +44,7 @@ I built a **Tableau Dashboard** to analyze Netflix movies and TV shows, focusing
 
 This research demonstrates improved NeRF reconstruction quality using True-Log color space compared to traditional sRGB approach. The comparisons below showcase the visual differences between current literature methods and our proposed approach.
 
-Our approach leverages the logarithmic RGB data captured in the True-Log space to enhance the performance of Neural Radiance Fields (NeRF). True-Log encodings improve depth reconstruction and rendering quality by aligning with the physical behavior of light reflection and enabling better scene representations. For more details, please refer to the [research paper](#).
+Our approach leverages the logarithmic RGB data captured in the True-Log space to enhance the performance of Neural Radiance Fields (NeRF). True-Log encodings improve depth reconstruction and rendering quality by aligning with the physical behavior of light reflection and enabling better scene representations.
 
 <table>
 <tr>
