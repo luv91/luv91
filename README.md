@@ -70,8 +70,6 @@ Our approach leverages the logarithmic RGB data captured in the True-Log space t
 - **Enhanced Depth Reconstruction**: True-Log representations significantly enhance depth maps and preserve details in both shadows and highlights.
 - **Alignment with Physical Laws**: By decoupling illumination and reflectance, the logarithmic transformation enables NeRFs to better understand scene structure and lighting conditions.
 
-For more details on the methodology and results, check out the attached research paper or see the visual comparisons above!
-
 
 ### 😎😎 In our ArXiv research article (from the Computer Vision section) on ablation analysis of Vector Quantized Generative Adversarial Networks (VQGANs) for image-to-image synthesis, we delved into understanding the discrete latent space, specifically studying the effects of varying its size on image reconstruction.
 #### The figure below is shown as an example and it visually compares original images with their corresponding reconstructions under different configurations: one without positional encoding and the other introducing 2D positional encodings. Please go through the article to delve deeper
