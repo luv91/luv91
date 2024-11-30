@@ -40,8 +40,6 @@ I built a **Tableau Dashboard** to analyze Netflix movies and TV shows, focusing
 
 [Click here to view the Tableau Dashboard](https://public.tableau.com/app/profile/luv.verma/viz/TableauProjectNetflix_17267119941750/NetflixVisualizationDashboard?publish=yes)
 
-## 🚀 Work Highlights
-
 ## 🎥 Novel NeRF Reconstruction Methods Comparison
 
 This research demonstrates improved NeRF reconstruction quality using True-Log color space compared to traditional sRGB approach. The comparisons below showcase the visual differences between current literature methods and our proposed approach.
@@ -53,10 +51,10 @@ This research demonstrates improved NeRF reconstruction quality using True-Log c
 </tr>
 <tr>
     <td>
-        <img src="gifs/Scene-1-sRGB-median.gif" width="100%" alt="sRGB Reconstruction">
+        <img src="https://github.com/luv91/NeRFs-TrueLog_vs_sRGB/raw/main/gifs/Scene-1-sRGB-median.gif" width="100%" alt="sRGB Reconstruction">
     </td>
     <td>
-        <img src="gifs/Scene-1-True-Log-median.gif" width="100%" alt="True-Log Reconstruction">
+        <img src="https://github.com/luv91/NeRFs-TrueLog_vs_sRGB/raw/main/gifs/Scene-1-True-Log-median.gif" width="100%" alt="True-Log Reconstruction">
     </td>
 </tr>
 <tr>
