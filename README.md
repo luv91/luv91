@@ -13,6 +13,19 @@ I am a former Senior Data Scientist, Research Engineer, and Technical Blogger wi
 
 ---
 
+---
+
+## 🏆 Certification
+
+### **AWS Certified Machine Learning – Associate**
+I am an **AWS Certified Machine Learning – Associate** professional. This certification validates my expertise in building, training, and deploying machine learning models at scale using AWS services.
+
+[![AWS Certification Badge](https://github.com/luv91/assets/raw/main/aws%20badge.png)](https://www.credly.com/badges/4631b801-046f-4c09-98ff-ac16eef85a74/linked_in_profile)
+
+- **Certification Link**: [View on Credly](https://www.credly.com/badges/4631b801-046f-4c09-98ff-ac16eef85a74/linked_in_profile)
+
+---
+
 ## 🛠️ Skills and Technologies
 
 ### **Programming Languages**
