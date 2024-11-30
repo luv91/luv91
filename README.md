@@ -91,14 +91,17 @@ Below is a comparison of original images and their reconstructions under differe
 <a target="_blank" href="https://arxiv.org/pdf/2308.05242.pdf"><img src="https://github.com/luv91/VQGAN_Project/blob/main/figure_7_codebook_8192_ld_256_without_pos_withpos_Images%3D65.png" alt="My recent Arxiv article on VQGANs"></a>
 
 ---
-
 ### **Transformer-Based Machine Translation Optimization**
-In another ArXiv research article, we optimized transformer-based machine translation models for single GPU training through an extensive hyperparameter ablation study.
+In our ArXiv research article, we optimized transformer-based machine translation models for single GPU training through extensive hyperparameter analysis. Our findings reveal that simply increasing model parameters doesn't guarantee better performance.
 
-#### Example Table:
-Below is a summary table analyzing the impact of various hyperparameters on model performance. For full insights, refer to the [research article](https://arxiv.org/pdf/2308.06017.pdf).
+#### 📊 Parameter Efficiency Analysis
+![Parameter Efficiency Plot](https://github.com/luv91/MachineLanguageTranslation/blob/main/model_performance.png)
+*Our analysis demonstrates that optimal performance (lowest perplexity) is achieved with ~27M parameters, while larger models showed diminishing returns.*
 
-<a target="_blank" href="https://arxiv.org/pdf/2308.06017.pdf"><img src="https://github.com/luv91/MachineLanguageTranslation/blob/main/Table_1.png" alt="My recent Arxiv article on Ablation studies over Machine Translation Model"></a>
+#### 📈 Hyperparameter Impact Study
+<img src="https://github.com/luv91/MachineLanguageTranslation/blob/main/Table_1.png" alt="Hyperparameter Analysis Table" width="750"/>
+
+For comprehensive insights and methodology, refer to our [full research article](https://arxiv.org/pdf/2308.06017.pdf).
 
 ---
 
