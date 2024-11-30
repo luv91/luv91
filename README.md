@@ -42,6 +42,31 @@ I built a **Tableau Dashboard** to analyze Netflix movies and TV shows, focusing
 
 ## 🚀 Work Highlights
 
+## 🎥 Comparison of Reconstructions: sRGB vs TrueLog vs GP-Log
+
+Below are videos showcasing different reconstructions of the scenes, comparing **current literature (sRGB)**, **improved GP-Log**, and **my research (TrueLog)**.
+
+### Scene 1: Median Reconstructions
+
+#### sRGB Reconstruction (Current Literature)
+<video width="320" height="240" controls>
+  <source src="videos/Scene1Vidoes-sRGB-GP-Log-True-Log/Scene-1-sRGB-median.mp4" type="video/mp4">
+  Your browser does not support the video tag.
+</video>
+
+#### TrueLog Reconstruction (My Research)
+<video width="320" height="240" controls>
+  <source src="videos/Scene1Vidoes-sRGB-GP-Log-True-Log/Scene-1-True-Log-median.mp4" type="video/mp4">
+  Your browser does not support the video tag.
+</video>
+
+#### GP-Log Reconstruction
+<video width="320" height="240" controls>
+  <source src="videos/Scene1Vidoes-sRGB-GP-Log-True-Log/Scene-1-GP-Log-median.mp4" type="video/mp4">
+  Your browser does not support the video tag.
+</video>
+
+
 ### 😎😎 In our ArXiv research article (from the Computer Vision section) on ablation analysis of Vector Quantized Generative Adversarial Networks (VQGANs) for image-to-image synthesis, we delved into understanding the discrete latent space, specifically studying the effects of varying its size on image reconstruction.
 #### The figure below is shown as an example and it visually compares original images with their corresponding reconstructions under different configurations: one without positional encoding and the other introducing 2D positional encodings. Please go through the article to delve deeper
 <a target="_blank" href="https://arxiv.org/pdf/2308.05242.pdf"><img src="https://github.com/luv91/VQGAN_Project/blob/main/figure_7_codebook_8192_ld_256_without_pos_withpos_Images%3D65.png" alt="My recent Arxiv article on VQGANs"></a>
