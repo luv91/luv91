@@ -44,6 +44,8 @@ I built a **Tableau Dashboard** to analyze Netflix movies and TV shows, focusing
 
 This research demonstrates improved NeRF reconstruction quality using True-Log color space compared to traditional sRGB approach. The comparisons below showcase the visual differences between current literature methods and our proposed approach.
 
+Our approach leverages the logarithmic RGB data captured in the True-Log space to enhance the performance of Neural Radiance Fields (NeRF). True-Log encodings improve depth reconstruction and rendering quality by aligning with the physical behavior of light reflection and enabling better scene representations. For more details, please refer to the [research paper](#).
+
 <table>
 <tr>
     <td width="50%"><strong>sRGB (Current Literature)</strong></td>
@@ -62,6 +64,14 @@ This research demonstrates improved NeRF reconstruction quality using True-Log c
     <td><em>Our True-Log method demonstrating improved detail preservation and enhanced dynamic range</em></td>
 </tr>
 </table>
+
+### 📄 Summary from Research
+- **True-Log Improves NeRF Performance**: Models trained on True-Log achieve superior results in Peak Signal-to-Noise Ratio (PSNR) and Structural Similarity Index Measure (SSIM) across 360-degree and LLFF scenes.
+- **Enhanced Depth Reconstruction**: True-Log representations significantly enhance depth maps and preserve details in both shadows and highlights.
+- **Alignment with Physical Laws**: By decoupling illumination and reflectance, the logarithmic transformation enables NeRFs to better understand scene structure and lighting conditions.
+
+For more details on the methodology and results, check out the attached research paper or see the visual comparisons above!
+
 
 ### 😎😎 In our ArXiv research article (from the Computer Vision section) on ablation analysis of Vector Quantized Generative Adversarial Networks (VQGANs) for image-to-image synthesis, we delved into understanding the discrete latent space, specifically studying the effects of varying its size on image reconstruction.
 #### The figure below is shown as an example and it visually compares original images with their corresponding reconstructions under different configurations: one without positional encoding and the other introducing 2D positional encodings. Please go through the article to delve deeper
