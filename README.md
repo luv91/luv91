@@ -81,7 +81,7 @@ Our approach leverages the logarithmic RGB data captured in the True-Log space t
 </table>
 
 ---
-
+<!-- 
 ### **Vector Quantized Generative Adversarial Networks (VQGANs)**
 In our ArXiv research article on ablation analysis of Vector Quantized Generative Adversarial Networks (VQGANs) for image-to-image synthesis, we delved into understanding the discrete latent space, specifically studying the effects of varying its size on image reconstruction.
 
@@ -89,7 +89,7 @@ In our ArXiv research article on ablation analysis of Vector Quantized Generativ
 Below is a comparison of original images and their reconstructions under different configurations: one without positional encoding and the other introducing 2D positional encodings. Please check the [research article](https://arxiv.org/pdf/2308.05242.pdf) for more details.
 
 <a target="_blank" href="https://arxiv.org/pdf/2308.05242.pdf"><img src="https://github.com/luv91/VQGAN_Project/blob/main/figure_7_codebook_8192_ld_256_without_pos_withpos_Images%3D65.png" alt="My recent Arxiv article on VQGANs"></a>
-
+-->
 ---
 ### **Transformer-Based Machine Translation Optimization**
 In our ArXiv research article, we optimized transformer-based machine translation models for single GPU training through extensive hyperparameter analysis. Our findings reveal that simply increasing model parameters doesn't guarantee better performance.
